@@ -1,6 +1,6 @@
 {
   "name": "ms2human",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts miliseconds to 00:00:00:000 format.",
   "main": "index.js",
   "scripts": {},
@@ -11,12 +11,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zigecek/node-sec2human.git"
+    "url": "git+https://github.com/Zigecek/node-ms2human.git"
   },
   "bugs": {
-    "url": "https://github.com/Zigecek/node-sec2human/issues"
+    "url": "https://github.com/Zigecek/node-ms2human/issues"
   },
-  "homepage": "https://github.com/Zigecek/node-sec2human#readme",
+  "homepage": "https://github.com/Zigecek/node-ms2human#readme",
   "author": "Zigecek",
   "license": "ISC"
 }
